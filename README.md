@@ -1,2 +1,2 @@
 # face-recognition--Ai
-use eigenface algorithm 
+use eigenface and fisherface algorithms
